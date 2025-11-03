@@ -1,4 +1,16 @@
-## Hi there 👋
+Hey there! 👋 I’m Dhruv Patel
+
+🎓 B.Tech IT Student @ Parul University (7th Sem)
+
+🧩 Technical Assistant Intern @ Satyam Hospital
+
+🌍 President of Rotaract Club of Parul University
+
+🚀 Founder of Nexora Studio (Digital Marketing Startup)
+
+💻 I love working on creative tech projects — from web apps to AI-driven tools
+
+⚡ Always exploring new ideas that blend tech + design + impact
 
 <!--
 **Dhruv0160/Dhruv0160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
